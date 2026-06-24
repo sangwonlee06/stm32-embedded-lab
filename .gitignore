@@ -1,0 +1,22 @@
+# Local editor and OS files
+.DS_Store
+.vscode/
+.idea/
+
+# Build outputs that may appear after firmware projects are implemented later
+build/
+Debug/
+Release/
+*.elf
+*.hex
+*.bin
+*.map
+*.o
+*.a
+*.d
+
+# Generated logs and captures
+*.log
+*.csv
+captures/
+
